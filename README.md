@@ -1,21 +1,37 @@
 # Next Markdown Blog
+Etiologi
+	- Defisiensi vitamin B12 dan/atau asam folat
+Faktor Risiko
+	- Diet rendah vitamin B12/ asam folat
+	- riwayat operasi gaster
+	- obat-obatan
+	- malabsorbsi
+Pemeriksaan fisik
+	- Anemis
+Laboratorium
+	- DL: Hb turun, MCV naik (> 100 fL)
+		- Pemeriksaan kadar serum vitamin B12/ asam folat
+Terapi
+	- Vitamin B12/ asam folat
+	- terapi penyakit yang mendasari
 
-<div class="separator" style="clear: both;"><a href="https://www.flaticon.com/free-icons/gynecologist" style="display: block; padding: 1em 0px; text-align: center;" title="gynecologist icons">Gynecologist icons created by smashingstocks - Flaticon<br /><img alt="" border="0" data-original-height="260" data-original-width="720" src="https://cdn.jsdelivr.net/gh/geniuscreator0/Kuis@f2a32b501bcf41c0b00a1e5a060a70fee2025de1/kedokteran/obgyn/obgyn.webp" width="320" /></a></div>
-<style> p {text-align: center;}</style>
-<p>Selamat Mengerjakan</p>
-<script src="https://cdn.jsdelivr.net/gh/geniuscreator0/Kuis@cd6abeacd679d0ba8b94442bd9a6e78f7af423d3/Javascript%201.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/geniuscreator0/Kuis@697fb2b75741fc21fac5735171260923a2941a2b/kedokteran/obgyn/Obgyn%20Part%202.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/geniuscreator0/Kuis@cd6abeacd679d0ba8b94442bd9a6e78f7af423d3/Javascript%202.js"></script>
-<br />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/geniuscreator0/Kuis@db0ef90f697ebfd75735552501cdaaa0a20a596a/css%20pagnation.css" />
-<div class="center">
-<ul class="pagination">
-<li><a href="https://www.nizaba.com/2022/07/quiz-obgyn-part-1.html">«</a></li>
-<li><a href="https://www.nizaba.com/2022/07/quiz-obgyn-part-1.html">1</a></li>
-  <li><a class="active" href="#">2</a></li>
-<li><a href="#">3</a></li>
-<li><a href="#">4</a></li>
-<li><a href="#">5</a></li>
-<li><a href="#">»</a></li>
-</ul>
-</div>
+Etiology
+Deficiencies of vitamin B 12 and folic acid are the leading causes of megaloblastic anemia.
+Folic acid is present in food such as green vegetables, fmits, meat, and liver. Daily adult needs range from 50 to 100 gg. The recommended dietary allowance is 400 gg in adults and 600 gg in a pregnant Folic acid is meanly absorbed in the jejunum — the body stores around 5 mg of folate in the liver, enough for 3 to 4 months. Folic acid deficiency may be related to decreased intake in the case of alcoholism or malnutrition (elderly, institutions,
+poverty, special diets, etc.), increased demand particularly in case of pregnancy, hemolysis and hemodialysis and malabsorption (tropical sprue, celiac disease, jejunal resection, Crohn disease, etc.). In some cases, medications like anticonvulsants and anticancer agents cause megaloblastic anemia related to folate deficiency.
+The primary dietary sources of cobalamin/vitamin B 12 are meats, fish, eggs, and dairy products. Vegan diets are low in vitamin B12. However, not all vegans develop clinical evidence of deficiency Vitamin B12 is first bound within the duodenum and jejunum to intrinsic factor produced by gastric parietal cells and is then absorbed in the terminal ileum. Body stores 2 to 3 mg of vitamin B12 in the liver (sufficient for 2 to 4 years).
+The most frequent cause of vitamin B 12 deficiency is pernicious anemia caused by autoimmune gastric atrophy and leading to intrinsic factor production reduction. [4] Vitamin B 12 deficiency may also develop following gastrectomy, ileal resection or ileitis of any cause. Other causes of impaired vitamin B 12 absorption include Zollinger-Ellison syndrome, blind loop syndrome, fish tapeworm infestation, and pancreatic insufficiency.
+
+B12 Deficiency
+- Vegetarian 
+- Gastritis, ulkus gaster, atropi gaster, post gastrektomi
+- Malabsorbsi (ZollingerEllison Syndrome)
+
+Asam folat defisiensi
+- Alkohol
+- Malnutrisi
+- Kehamilan
+- Hemolisis
+- Hemodialisis
+- Obat-obatan (anti konvulsan, anti kanker) 
+- Malabsorbsi (celiac disease, chron disease, jejunal resection, dll)
